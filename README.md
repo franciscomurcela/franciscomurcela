@@ -1,7 +1,9 @@
 <h1 align="center">Hey, I'm Francisco Murcela</h1>
 <h3 align="center">A Computer Engineer student from Portugal</h3>
 
-- 🌱 I’m currently learning **Engenharia de Computadores e Informática @ Universidade de Aveiro**
+- ✅ degree in **Engenharia de Computadores e Informática @ Universidade de Aveiro**
+
+- 🌱 I’m currently attending **Mestrado de Engenharia de Computadores e Telemática @ Universidade de Aveiro**
 
 - 📫 How to reach me **franciscomurcela0@gmail.com**
 
