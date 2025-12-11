@@ -3,7 +3,7 @@
 
 - ✅ Degree in **Engenharia de Computadores e Informática @ Universidade de Aveiro**
 
-- 🌱 I’m currently attending **Mestrado de Engenharia de Computadores e Telemática @ Universidade de Aveiro**
+- 🧑‍💻 I’m currently attending **Mestrado de Engenharia de Computadores e Telemática @ Universidade de Aveiro**
 
 - 📫 How to reach me **franciscomurcela0@gmail.com**
 
