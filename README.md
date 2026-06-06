@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Francisco Murcela</h1>
-<h3 align="center">A Computer Engineer student from Portugal</h3>
+<h3 align="center">A Computer Science student from Portugal</h3>
 
 - ✅ Degree in **Engenharia de Computadores e Informática @ Universidade de Aveiro**
 
